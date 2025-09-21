@@ -1,5 +1,4 @@
 # 11000번
-import sys
 import heapq
 
 N = int(input()) # 수업의 개수
